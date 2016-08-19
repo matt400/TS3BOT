@@ -1,0 +1,22 @@
+{
+	"SERVER_LOGIN": "serveradmin",
+	"SERVER_PASSWORD": "",
+	"SERVER_ID": 8,
+	"BOT_NAME": "TS3 BOT",
+	"AWAY_CHANNEL_ID": 1263,
+	"WELCOME_MESSAGE": "[b]Testowa wiadomość[/b]\nTestowa wiadomość",
+	"MAX_IDLE_TIME": 120,
+	"MAX_IDLE_WARNING": 60,
+	"IDLE_GROUPS_IGNORE": [6, 11, 12, 13, 14, 276, 277, 278],
+	"USER_REGISTER_SECONDS": 604800,
+	"REGISTER_GROUP_ID": 294,
+	"ENABLE_NAME_CHECKER": true,
+	"ENABLE_CHANNEL_CHECKER": true,
+	"ENABLE_ADVERTS": true,
+	"ADVERTS_SHOW_TIME": "*/1 * * * *",
+	"ADVERTS": [
+		"[b]Witamy[/b] na serwerze :)!",
+		"Serdecznie witamy na serwerze :)!"
+	],
+	"BAD_WORDS": []
+}
