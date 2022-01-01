@@ -1,9 +1,13 @@
 ### TS3 BOT PROTOTYPE ###
-Suspended, 2015-12-29
+Deprecated, 2015-12-29
 
-### What's new? ###
+> File bot.db does not contains sensitive data.
+
+### Features ###
 * Automatic registration after past 7 days on the Server
 * Bad Name Checker
-* Exclude users from Idle Checker
-* Bad Channel Name
+* Moving users to idle channel
+* Exclude users from idle channel
+* Bad channel name detector
 * Spam Protection
+...
